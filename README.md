@@ -1,0 +1,1 @@
+Aplicación web desarrollada en React que permite hacer cálculos rápidos asegurando un ahorro de tiempo muy superior al método tradicional de calculadora.
